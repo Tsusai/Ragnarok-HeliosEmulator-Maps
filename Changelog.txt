@@ -1,3 +1,12 @@
+- Rev 5 -
+[2008/10/10] LimitLine - Again, an error with my TurtoiseSVN and I just updated the changelog in this revision. Sorry for this, I will pay more attention next time.
+
+- Rev 4 -
+[2008/10/10] LimitLine - Added moc_fild22b.pms file to the /Maps folder, wich was left behind by accident. Sorry for that.
+
+- Rev 3 -
+[2008/10/10] LimitLine - Added missing .pms map files for EP12.1 and 13.1 maps, and also some missing .pms files from other maps.
+
 - Rev 2 -
 [2008/03/20] Spre - Updated all maps and mapinfoTABLE. Now includes up to 11.3 maps.
 -
